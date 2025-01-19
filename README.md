@@ -70,4 +70,4 @@ bash ./src/NICE/run.sh
 - Gurbuz, M. B., Moorman, J. M., & Dovrolis, C. (2024). NICE: Neurogenesis Inspired Contextual Encoding for Replay-free Class Incremental Learning. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). [Link to Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Gurbuz_NICE_Neurogenesis_Inspired_Contextual_Encoding_for_Replay-free_Class_Incremental_Learning_CVPR_2024_paper.html)
 - Official NICE GitHub Repository: [NICE Implementation](https://github.com/BurakGurbuz97/NICE.)
 
-This README is concise but includes essential sections for an academic project. Feel free to tweak it or
+This README is concise but includes essential sections for an academic project. Feel free to tweak it or add more details specific to your implementation!
